@@ -37,5 +37,11 @@ season: Season of the year.
 
 ![Screenshot 2024-11-11 at 10 44 09 AM](https://github.com/user-attachments/assets/d397ecc7-9c91-4ae6-bc36-4dadc0062ba8)
 
+# Hover over selected range to get more information:
+
+![Screenshot 2024-11-11 at 10 48 25 AM](https://github.com/user-attachments/assets/82bd7fd0-1e84-4320-b1e9-44e3c109e872)
+
+![Screenshot 2024-11-11 at 10 48 36 AM](https://github.com/user-attachments/assets/2fcbc87f-5619-42b3-8c76-c091308c8fa3)
+
 
 
