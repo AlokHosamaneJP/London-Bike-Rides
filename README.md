@@ -1,8 +1,10 @@
 # London-Bike-Rides
 Data Visualization Project
 This repository contains a interactive and dynamic data visualization project using Tableau and Jupyter Notebook. The dataset used in this project is london_merged.csv, which provides data for bike rentals in London.
+## Link 
+https://public.tableau.com/views/Book1_17527850323840/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-Contents
+## Contents
 Viz.twbx: Tableau workbook containing the visualizations created for this project.
 main.ipynb: Jupyter Notebook with Python code for data analysis and preprocessing.
 london_merged.csv: Dataset containing bike rental information, including weather and time features.
